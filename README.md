@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pan-Fifth)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pan-Fifth&layout=donut-vertical)]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pan-Fifth&show_icons=true&theme=tokyonight)  
