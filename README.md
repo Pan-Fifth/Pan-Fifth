@@ -2,7 +2,8 @@
 <h3 align="center">Full stack developer</h3>
 
 
-<h3 align="left">Contact me: [thanakorn.n845@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thanakorn.n845@gmail.com)</h3>
+<h3 align="left">Contact me:</h3>
+ [thanakorn.n845@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thanakorn.n845@gmail.com)
 <p align="left">
 </p>
 
