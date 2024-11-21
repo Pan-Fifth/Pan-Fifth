@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Nawikanjana</h1>
 <h3 align="center">Full stack developer</h3>
-
-[sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
 <h3 align="left">Contact me:</h3>
-[sarunya46mk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sarunya46mk@gmail.com)
+
+[thanakorn.n845@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thanakorn.n845@gmail.com)
+
 <p align="left">
 </p>
 
