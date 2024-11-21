@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Nawikanjana</h1>
 <h3 align="center">Full stack developer</h3>
 
+[thanakorn.n845@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thanakorn.n845@gmail.com)
 <h3 align="left">Contact me: thanakorn.n845@gmail.com</h3>
 <p align="left">
 </p>
