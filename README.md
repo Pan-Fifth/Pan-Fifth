@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Nawikanjana</h1>
 <h3 align="center">Full stack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me: thanakorn.n845@gmail.com</h3>
 <p align="left">
 </p>
 
