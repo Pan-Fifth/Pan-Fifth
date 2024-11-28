@@ -11,8 +11,8 @@
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛍️ **Single Project**       | A fully functional e-commerce order and shipping platform for SME mainly use in **React** & **Node.js**.  | [Repository Client](https://github.com/Pan-Fifth/sk-express_client) ,[Repository Server](https://github.com/Pan-Fifth/ske-express-server)|
-| 🛍️ **Group Project**             |  A fully functional for dogs and cats charity integrated with AI mainly use in **React** & **Node.js**.                            | [Repository Client](https://github.com/Pan-Fifth/Friendly-paws-client) , [Repository Server](https://github.com/Pan-Fifth/Friendly-paws-Server)|
+| 🛍️ **My First Single Project From Codecamp**       | A fully functional e-commerce order and shipping platform for SME mainly use in **React** & **Node.js**.  | [Repository Client](https://github.com/Pan-Fifth/sk-express_client) ,[Repository Server](https://github.com/Pan-Fifth/ske-express-server)|
+| 🛍️ **My Group Project**             |  A fully functional for dogs and cats charity integrated with AI mainly use in **React** & **Node.js**.                            | [Repository Client](https://github.com/Pan-Fifth/Friendly-paws-client) , [Repository Server](https://github.com/Pan-Fifth/Friendly-paws-Server)|
 
 
 
